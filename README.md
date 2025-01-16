@@ -1,6 +1,6 @@
 # Hi, I'm Redwane ! 👋
 
-## I’m a student at 42 School passionate about software development and solving complex problems. 
+## I’m passionate about software development and solving complex problems. 
 
 ***💪 What I'm capable of :***
 - **CLI and Terminal application**
