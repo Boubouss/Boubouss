@@ -2,11 +2,11 @@
 
 ## I’m a student at 42 School passionate about software development and solving complex problems. 
 
-###💪 What I'm capable of :
+***💪 What I'm capable of :***
 - **CLI and Terminal application**
 - **Web application**
 
-###🔭 What I’d like to focus on learning :
+***🔭 What I’d like to focus on learning :***
 - **Algorithm**
 - **Software architecture**
 - **Computer system**
