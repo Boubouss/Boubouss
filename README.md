@@ -2,15 +2,15 @@
 
 ## I’m passionate about software development and solving complex problems. 
 
-***💪 What I'm capable of :***
-- **CLI and Terminal application**
-- **Web application**
+**💪 What I'm capable of :**
+- *CLI and Terminal application*
+- *Web application*
 
-***🔭 What I’d like to focus on learning :***
-- **Algorithm**
-- **Software architecture**
-- **Computer system**
-- **Golang and RUST**
+**🔭 What I’d like to focus on learning :**
+- *Algorithm*
+- *Software architecture*
+- *Computer system*
+- *Golang and RUST*
 
 ---
 
