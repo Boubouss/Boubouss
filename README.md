@@ -10,7 +10,6 @@
 - *Algorithm*
 - *Software architecture*
 - *Computer system*
-- *Golang and RUST*
 
 ---
 
