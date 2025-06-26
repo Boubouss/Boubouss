@@ -16,5 +16,5 @@
 ## 🔧 Technical Skills  
 - **Programming Languages:** C, C++, JavaScript  
 - **Tools:** Git, Docker, Linux  
-- **Frameworks & Libraries:** React
+- **Frameworks & Libraries:** Fastify, React
 - **Databases:** Mariadb, PostgreSQL, Redis
