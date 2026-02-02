@@ -7,14 +7,16 @@
 - *Web application*
 
 **🔭 What I’d like to focus on learning :**
-- *Algorithm*
-- *Software architecture*
-- *Computer system*
+- *Mastering Golang, PostgreSQL, Kafka, AWS*
+- *Algorithm and Design Patterns*
+- *Being bilingual in english*
 
 ---
 
 ## 🔧 Technical Skills  
-- **Programming Languages:** C, C++, JavaScript  
-- **Tools:** Git, Docker, Linux  
+- **Programming Languages:** Go, C/C++, Typescript  
+- **Tools:** Git, Docker, Kafka  
 - **Frameworks & Libraries:** Fastify, React
-- **Databases:** Mariadb, PostgreSQL, Redis
+- **Databases:** PostgreSQL, Redis
+- **API:** REST (HTTPS), gRPC, GraphQL
+- **Infras:** Linux (Debian, Alpine), AWS 
