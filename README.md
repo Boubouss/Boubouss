@@ -16,7 +16,7 @@
 ## 🔧 Technical Skills  
 - **Programming Languages:** Go, C/C++, Typescript  
 - **Tools:** Git, Docker, Kafka  
-- **Frameworks & Libraries:** Fastify, React
+- **Frameworks & Libraries:** Echo, HTMX, Fastify, React
 - **Databases:** PostgreSQL, Redis
 - **API:** REST (HTTPS), gRPC, GraphQL
 - **Infras:** Linux (Debian, Alpine), AWS 
